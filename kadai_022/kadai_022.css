@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+p, a {
+  font-size: 20px;
+}
+
 h1 {
   color: rgb(255, 255, 255);
 }
@@ -59,7 +63,7 @@ footer a {
 }
 
 footer a:visited {
-  color: rgb(255, 255, 255);
+  color: rgb(193, 234, 251);
 }
 
 footer a:hover {
